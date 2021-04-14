@@ -1,6 +1,6 @@
 
 
-<div style="text-align:center">
+<div align="center">
 
 <a href="https://tech-hub.org" target="_blank">
   <br>
@@ -23,9 +23,9 @@ Resources &amp; Guides for getting started with programming for new comers and h
 
 ## Official Video Resource
 
-We will refer freecodecamp c++ tutorial for beiginners from youtube.
+1. We will refer freecodecamp c++ tutorial for beiginners from [this youtube link](https://youtu.be/vLnPwxZdW4Y).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vLnPwxZdW4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Note: We will be adding more resources soon.
 
